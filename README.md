@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgecarballoh&label=Profile%20views&color=0e75b6&style=flat" alt="jorgecarballoh" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Azure DevOps**
 
 - 💬 Ask me about **.NET Core, Microservices, API's Restful,ASP.NET CORE**
 
