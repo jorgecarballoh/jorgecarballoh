@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Jorge Carballo</h1>
 <h3 align="center">A passionate backend developer from Nicaragua</h3>
 
-<images align="right" alt="Coding" with="400" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ma0afahazql6tc8v25vgqqr414wgi2djzru2vyuk&rid=giphy.gif&ct=g">
+
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgecarballoh&label=Profile%20views&color=0e75b6&style=flat" alt="jorgecarballoh" /> </p>
 
