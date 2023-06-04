@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Jorge Carballo
 
-A passionate backend developer who loves creating Restful API's, Microservices using clean code, clean architecture, pattern design.
+A passionate full stack developer who loves creating Restful API's, Microservices, Frontend using clean code, clean architecture, pattern design.
 
 [![](https://komarev.com/ghpvc/?username=jorgecarballoh&label=Profile%20views&color=0e75b6&style=flat)]()
 
