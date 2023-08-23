@@ -1,5 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*xOELk_XpewXA7u_ffGevCA.gif)]()
-
 ### Hi 👋, I'm Jorge Carballo
 
 A passionate full stack developer who loves creating Restful API's, Microservices, Frontend using clean code, clean architecture, pattern design.
